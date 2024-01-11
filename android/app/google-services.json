@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002400416923",
+    "project_id": "new-test-8350b",
+    "storage_bucket": "new-test-8350b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002400416923:android:4be73abb50ffd431ce723e",
+        "android_client_info": {
+          "package_name": "com.example.testinclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANiMmMleFh6AHKThIojZovXHk2Y2M0IyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
